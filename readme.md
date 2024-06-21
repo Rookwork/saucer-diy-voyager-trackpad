@@ -109,7 +109,7 @@ Now, we want to look at the TRRS port. There are four small metal contacts on th
 
 - Top left is SCL
 - Middle left is SDA
-- Bottom left is VCC (3v power)
+- Bottom left is VCC (5V power)
 - Top right is GND (ground)
 
 Plug the board in (be careful not to push on it and send a bunch of keystrokes) with the TRRS splitter attached. Then, using a multimeter, test for continuity between each of these small contacts and the wires of your splitter. Mine worked out like this:

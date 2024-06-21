@@ -143,6 +143,21 @@ Then take your lengths of wire and solder them to the test pads. I'm using wire 
 
 ![Wiring trackpad](/readme_assets/wires_trackpad.jpeg)
 
+### Preparing the splitter
+
+With the wires attached to the trackpad, the the last big thing to do is attach these to the TRRS splitter wires. 
+
+Before you solder the wires together, it's a good idea to cut some short lengths of heat shrink tubing and slide them on to each wire before connecting them. That way, once you're sure things are working, you can just slide the tubing up to wrap the connections. 
+
+Once you have the tubing on, tin each side of the wires, then heat them to connect. It should look like this. 
+
+![TRRS splitter connected to trackpad](/readme_assets/trrs-wires-connected.jpeg)
+*This image shows the a prior version of the design — the concept it still the same.*
+
+You can do this before installing the trackpad in the enclosure. The design is meant to keep the while trackpad-TRRS-wire-harness assembly removable, so you don't have to worry about not being able to access it if something goes wrong. 
+
+The above image isn't the greatest angle because it looks like two wires are soldered together, but they aren't. You're looking for four independent wires, all connected to the corresponding wire on either side. This is where using different wire colors come in handy since you can just match the wires by color. 
+
 ### Putting everything together
 
 First, push fit the trackpad into the holder. It should be snug, but you can remove it if you mess up the orientation. Try to get it as straight up and down as possible.

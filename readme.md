@@ -2,7 +2,7 @@
 ## The Saucer
 Mount a trackpad to your ZSA Voyager!
 
-With a few parts and a bit of soldering, you can use your ZSA Voyager as a mouse as well as a keyboard. All your input needs in one small package.
+With a few parts and a bit of soldering, you can use your ZSA Voyager as a pointing device as well as a keyboard. All your input needs in one small package.
 
 ![The Saucer](/readme_assets/enclosure-attached.JPG)
 
@@ -10,7 +10,7 @@ Well, maybe not all your needs. Here are a few caveats to this project to keep i
 
 - This trackpad is great for writers, office workers, and coders, but it may not ideal for creative work or gaming. Anyone can get use out of this trackpad, but it is not a complete replacement for all things you might need a mouse for.
 - QMK's mouse support is good, but not perfect. There is limited gesture support, for example. The hardware is also not as polished as something like an Apple trackpad. Attaching this to a keyboard is a fundamental part of the design in more ways than one. The keyboard and the trackpad work together. You may need to get used to keyboard actions for some things you used a mouse for before.
-- This is a DIY guide. I try to document the process here thoroughly, but I'm not promising any sort of warranty or support if things go wrong. This design does not involve modifying the ZSA Voyager, but if something does get damaged somehow as the result of following this guide, [ZSA cannot promise warranty support](https://www.zsa.io/warranty) either. Please take your time and be careful.
+- This is a DIY guide. I try to document the process here thoroughly, but this is not covered by any sort of warranty or support if things go wrong. This design does not involve modifying the ZSA Voyager, but if something does get damaged somehow as the result of following this guide, [ZSA cannot promise warranty support](https://www.zsa.io/warranty) either. Please take your time and be careful.
 
 Finally, please note that although I work at ZSA, this is personal project of mine, not an official ZSA accessory. Please do not email ZSA with questions about this. If you do have questions, you can open an issue here and I will try to get back to you as soon as I can.
 

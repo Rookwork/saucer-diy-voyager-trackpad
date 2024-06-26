@@ -150,11 +150,11 @@ Before you solder the wires together, it's a good idea to cut some short lengths
 Once you have the tubing on, tin each side of the wires, then heat them to connect. It should look like this. 
 
 ![TRRS splitter connected to trackpad](/readme_assets/trrs-wires-connected.jpeg)
-*This image shows the a prior version of the design — the concept it still the same.*
+*This image shows the a prior version of the design — the concept is still the same.*
 
-You can do this before installing the trackpad in the enclosure. The design is meant to keep the while trackpad-TRRS-wire-harness assembly removable, so you don't have to worry about not being able to access it if something goes wrong. 
+You can do this before installing the trackpad in the enclosure. The design is meant to keep the whole trackpad-TRRS-wire-harness assembly removable, so you don't have to worry about not being able to access it if something goes wrong. 
 
-The above image isn't the greatest angle because it looks like two wires are soldered together, but they aren't. You're looking for four independent wires, all connected to the corresponding wire on either side. This is where using different wire colors come in handy since you can just match the wires by color. 
+The above image isn't the greatest angle because it looks like two wires are soldered together, but they aren't. You're looking for four independent wires, all connected to the corresponding wire on either side. This is where using different wire colors comes in handy since you can just match the wires by color. 
 
 ### Putting everything together
 
@@ -177,7 +177,7 @@ If you've gotten to this point, you're probably excited — I get it! Before you
 Grab your open board again and plug in the splitter with the trackpad attached. We're going to repeat the same continuity test as before, but this time, we're going to measure continuity from the TRRS port to the trackpad test pads.
 
 ![Final TRRS test](/readme_assets/final_test.jpeg)
-*This image shows the a prior version of the design — the concept it still the same.*
+*This image shows the a prior version of the design — the concept is still the same.*
 
 If these all show continuity like you would expect, then great; you probably soldered correctly, and if something isn't working, it's probably a firmware issue. If these don't work how you expect, fix it now before buttoning everything up.
 

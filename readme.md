@@ -22,7 +22,7 @@ Here is what you will need to make a Saucer.
 - The 3D printed trackpad mount (left or right)
 - A 40mm flat Cirque trackpad
 - Four lengths of small gage wire about 16cm long (ideally four different colors)
-- A TRRS splitter cable
+- A TRRS splitter cable (I used [this one](https://www.amazon.com/MillSO-Headset-Splitter-TRRS-Headphones/dp/B07569QKQQ?th=1), but I'm sure there are others that would work. This one is a bit long.)
 - Some small heat shrink tubing
 
 ### Tools
@@ -64,8 +64,6 @@ POINTING_DEVICE_DRIVER = cirque_pinnacle_i2c
 In `config.h` add:
 
 ```
-
-#define USE_I2C
 
 #define CIRQUE_PINNACLE_TAP_ENABLE
 

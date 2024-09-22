@@ -173,9 +173,9 @@ Then just pop the legs on to secure the trackpad.
 
 To finish up, push the lid into the bottom of the holder. Like the trackpad, the lid should be snug, but can be removed when the orientation is not correct.
 
-![3D printed lids (L and R)](/readme_assets/saucer_trackpad_lids_LR.JPG)
+![3D printed lids (L and R)](/readme_assets/saucer_trackpad_lids_LR.jpg)
 
-![Installed lids covering up the cables](/readme_assets/saucer_trackpad_lids_installed.JPG)
+![Installed lids covering up the cables](/readme_assets/saucer_trackpad_lids_installed.jpg)
 
 ### Testing and finishing
 

@@ -20,6 +20,7 @@ Here is what you will need to make a Saucer.
 
 ### Parts
 - The 3D printed trackpad mount (left or right)
+- The 3D printed trackpad lid (left or right)
 - A 40mm flat Cirque trackpad
 - Four lengths of small gage wire about 16cm long (ideally four different colors)
 - A TRRS splitter cable (I used [this one](https://www.amazon.com/MillSO-Headset-Splitter-TRRS-Headphones/dp/B07569QKQQ?th=1), but I'm sure there are others that would work. This one is a bit long.)
@@ -169,6 +170,11 @@ Next, take your lengths of wires and push them into the channel that goes to the
 Then just pop the legs on to secure the trackpad.
 
 ![Securing enclosure with feet](/readme_assets/legs-installed.JPG)
+
+To finish up, push the lid into the bottom of the holder. Like the trackpad, the lid should be snug, but can be removed when the orientation is not correct.
+
+![3D printed lids (L and R)](/readme_assets/saucer_trackpad_lids_LR.JPG)
+![Installed lids covering up the cables](/readme_assets/saucer_trackpad_lids_installed.JPG)
 
 ### Testing and finishing
 

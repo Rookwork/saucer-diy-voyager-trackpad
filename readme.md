@@ -20,6 +20,7 @@ Here is what you will need to make a Saucer.
 
 ### Parts
 - The 3D printed trackpad mount (left or right)
+- (Optionally) The 3D printed trackpad lid (left or right) to protect the wiring
 - A 40mm flat Cirque trackpad
 - Four lengths of small gage wire about 16cm long (ideally four different colors)
 - A TRRS splitter cable (I used [this one](https://www.amazon.com/MillSO-Headset-Splitter-TRRS-Headphones/dp/B07569QKQQ?th=1), but I'm sure there are others that would work. This one is a bit long.)
@@ -184,6 +185,12 @@ If these all show continuity like you would expect, then great; you probably sol
 As long as the electrical seems good, unplug the board and use some heat shrink to protect the soldered wire connections. You can also add another layer of larger heat shrink around all the wires for a cleaner look. Then, close up your board, make sure your modified layout is flashed to it (a quick way to test this is to try to connect through ZSA's Keymapp — it shouldn't connect), and plug everything in.
 
 ![Board lit up and working](/readme_assets/final-product.JPG)
+
+Once you're happy with how things are working, you can add a lid (contributed by [Teije](https://github.com/teije)) to help protect the wiring. Just print the lid part and push it into the bottom of the holder. Like the trackpad, the lid should be snug, but can be removed when the orientation is not correct.
+
+![3D printed lids (L and R)](/readme_assets/saucer_trackpad_lids_LR.jpg)
+
+![Installed lids covering up the cables](/readme_assets/saucer_trackpad_lids_installed.jpg)
 
 Liftoff!
 
